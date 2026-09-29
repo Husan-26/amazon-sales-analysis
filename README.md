@@ -41,7 +41,7 @@ The analysis is organized around executive KPIs, monthly sales trends, category 
 
 ### Executive Overview
 
-![Amazon Sales Overview](powerbi/images/amazon-overview.png)
+![Amazon Sales Overview](amazon-overview.png)
 
 The dashboard displays the following headline KPIs:
 
@@ -54,7 +54,7 @@ The overview also examines category volume, revenue over time, fulfilment contri
 
 ### Product & Fulfilment Analysis
 
-![Amazon Product and Fulfilment Dashboard](powerbi/images/amazon-product-fulfillment.png)
+![Amazon Product and Fulfilment Dashboard](amazon-product-fulfillment.png)
 
 This view includes order status, units sold by size, B2B segmentation, ship-state distribution, and SKU-level performance.
 
